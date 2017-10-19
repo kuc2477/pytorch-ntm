@@ -1,6 +1,6 @@
 # Neural Turing Machines PyTorch Implementation
 
-PyTorch Implementation of [Neural Turing Machines](https://arxiv.org/abs/1410.5401), arxiv.
+PyTorch Implementation of [Neural Turing Machines, arxiv:1410.5401](https://arxiv.org/abs/1410.5401)
 
 ![model-architecture.](./arts/ntm.jpeg)
 
@@ -55,7 +55,7 @@ $ ./main.py --test --task=[copy | repeat_copy]
 
 
 ## Reference
-- [Neural Turing Machines](https://arxiv.org/abs/1410.5401)
+- [Neural Turing Machines, arxiv:1410.5401](https://arxiv.org/abs/1410.5401)
 - [pytorch-ntm](https://github.com/loudinthecloud/pytorch-ntm)
 
 
