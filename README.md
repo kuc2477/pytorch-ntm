@@ -56,7 +56,7 @@ $ ./main.py --test --task=[copy | repeat_copy]
 
 ## Reference
 - [Neural Turing Machines, arxiv:1410.5401](https://arxiv.org/abs/1410.5401)
-- [pytorch-ntm](https://github.com/loudinthecloud/pytorch-ntm)
+- [loudinthecloud/pytorch-ntm](https://github.com/loudinthecloud/pytorch-ntm)
 
 
 ## Author
